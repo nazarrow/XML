@@ -1,6 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <aboutMe>
 	<fullName>Nazarov Aleksei Olegovich</fullName>
 	<age>28</age>
-	<pets>I don`t have any pets<pets>
+	<pets>I don`t have any pets</pets>
 	<desiredSalary>500$</desiredSalary>
 </aboutMe>

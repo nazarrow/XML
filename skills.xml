@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <skills>
 	<one>software testing theory</one>
 	<two>client-server architecture</two>
@@ -26,4 +27,4 @@
 	<twentyFive>Load testing in Jmeter</twentyFive>
 	<twentySix>Scrum development methodology</twentySix>
 	<twentySeven>Python. Learning the basics. Building a client-server application</twentySeven>
-    </skills>[D[D[D[D[D[D[D[D[3~[3~[3~[3~[3~[3~
+</skills>

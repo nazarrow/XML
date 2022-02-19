@@ -1,3 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <bugReport>
-  <text>There will be more information here soon!</text>
+			<summary>Information dosn't provide if have more than 7 characters from WS</summary> 
+			<descriprion>WS dosen't provide information if response containes more than 8 characters.</descriprion>
+			<actualResult>information gets</actualResult>
+			<expectedResult>information doesen't get</expectedResult>
+			<requirementId>requirement</requirementId>
+			<reproducedOn>Win 10</reproducedOn>
+			<reproducibility>always</reproducibility>
+			<workaround>no</workaround>
+			<stepsTOreproduce>
+								<one>1. Open FireFox browser</one>
+								<two>2. Click [RESTClient] icon</two>
+								<three>3. Request method: POST</three>
+								<four>4. URL: http://178.124.206.52/app/ws/</four>
+								<five>5. type in Body: {"user":"rangarad", "strict":false}</five>
+			</stepsTOreproduce>
+			<severity>minor</severity>
+			<priority>low</priority>
 </bugReport>
